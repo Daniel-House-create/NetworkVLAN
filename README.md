@@ -1,5 +1,8 @@
 # NetworkVLAN
 
+<img width="750" alt="Screenshot 2025-05-02 at 1 15 00 PM" src="https://github.com/user-attachments/assets/b94a3917-6fa3-47d7-9e2e-0807731811b6" />
+
+
 <h1>Network VLAN Setup and Configuration</h1>
 This project outlines the steps of creating and configuring a VLAN.<br />
 
